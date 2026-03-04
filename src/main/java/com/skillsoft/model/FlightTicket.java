@@ -1,6 +1,8 @@
 package com.skillsoft.model;
 
-import jakarta.xml.bind.annotation.XmlRootElement;
+
+import javax.xml.bind.annotation.XmlRootElement;
+import java.math.BigDecimal;
 
 @XmlRootElement(name = "ticket")
 public class FlightTicket {
@@ -8,7 +10,7 @@ public class FlightTicket {
     private String name;
     private int ticketNumber;
     private String route;
-    private double ticketPrice;
+    private BigDecimal ticketPrice;
 
     public String getName() {
         return name;
@@ -34,11 +36,11 @@ public class FlightTicket {
         this.route = route;
     }
 
-    public double getTicketPrice() {
+    public BigDecimal getTicketPrice() {
         return ticketPrice;
     }
 
-    public void setTicketPrice(double ticketPrice) {
+    public void setTicketPrice(BigDecimal ticketPrice) {
         this.ticketPrice = ticketPrice;
     }
 
