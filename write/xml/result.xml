@@ -2,20 +2,20 @@
 <ticketRecords>
     <ticket>
         <name>Roald</name>
-        <route>ATLANTA – ORLANDO</route>
+        <route>ATLANTA - ORLANDO</route>
         <ticketNumber>2133</ticketNumber>
         <ticketPrice>200</ticketPrice>
     </ticket>
     <ticket>
         <name>John</name>
-        <route>DENVER – PHOENIX</route>
+        <route>DENVER - PHOENIX</route>
         <ticketNumber>2134</ticketNumber>
         <ticketPrice>250</ticketPrice>
     </ticket>
     <ticket>
-        <name>Robin</name>
-        <route>DENVER – LAS VEGAS</route>
-        <ticketNumber>2135</ticketNumber>
-        <ticketPrice>300</ticketPrice>
+        <name>Dani</name>
+        <route>MADRID - PHOENIX</route>
+        <ticketNumber>32134</ticketNumber>
+        <ticketPrice>250</ticketPrice>
     </ticket>
 </ticketRecords>

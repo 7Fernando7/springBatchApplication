@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Roald",
+    "ticketNumber": 2133,
+    "route": "Atlanta - Orlando",
+    "ticketPrice": 200
+  },
+  {
+    "name": "John",
+    "ticketNumber": 2134,
+    "route": "Denver - Phoenix",
+    "ticketPrice": 250
+  },
+  {
+    "name": "Dani",
+    "ticketNumber": 32134,
+    "route": "Madrid - Phoenix",
+    "ticketPrice": 250
+  }
+]
